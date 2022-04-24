@@ -1,0 +1,12 @@
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\bin\Debug\net6.0\Library.deps.json
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\bin\Debug\net6.0\Library.dll
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\bin\Debug\net6.0\Library.pdb
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.dll
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\refint\Library.dll
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\Library.pdb
+c:\Users\Kevin\Desktop\VisualStudioCode\PII_DateFormat\Code_Date_Format\src\Library\obj\Debug\net6.0\ref\Library.dll
