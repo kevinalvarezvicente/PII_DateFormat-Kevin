@@ -1,0 +1,15 @@
+{
+    "version": "6.0",
+    "tasks": [
+        {
+            "label": "test",
+            "command": "dotnet test Code_Date_Format/Test_DateFormat/Test_DateFormat.csproj",
+            "type": "shell",
+            "group": "test",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
